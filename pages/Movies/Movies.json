@@ -1,23 +1,23 @@
 {
-  "gitSyncId": "68b6907b44a1770c4267e1ff_52b92373-8f49-461c-b60d-91e9262e0a26",
+  "gitSyncId": "68b6907b44a1770c4267e1ff_78ecf372-58e0-43ce-b566-241da3d108a6",
   "unpublishedPage": {
     "layouts": [
       {
         "dsl": {
           "backgroundColor": "none",
-          "bottomRow": 380,
+          "bottomRow": 880,
           "canExtend": true,
           "containerStyle": "none",
           "detachFromLayout": true,
           "dynamicBindingPathList": [],
           "dynamicTriggerPathList": [],
           "leftColumn": 0,
-          "minHeight": 1292,
+          "minHeight": 900,
           "parentColumnSpace": 1,
           "parentRowSpace": 1,
-          "rightColumn": 4896,
+          "rightColumn": 1174,
           "snapColumns": 64,
-          "snapRows": 124,
+          "snapRows": 125,
           "topRow": 0,
           "type": "CANVAS_WIDGET",
           "version": 94,
@@ -26,7 +26,7 @@
         }
       }
     ],
-    "name": "Page1",
-    "slug": "page1"
+    "name": "Movies",
+    "slug": "movies"
   }
 }
